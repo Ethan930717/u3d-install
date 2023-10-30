@@ -1,4 +1,4 @@
-git clone https://github.com/Ethan930717/u3d-install.git installer
+git clone git@github.com:Ethan930717/u3d-install.git installer
 
 cd installer
 
