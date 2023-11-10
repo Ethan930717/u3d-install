@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e494c61b-5d7e-4194-9cba-531083fc063d" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Installer/UNIT3D/Unit3dSetup.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Installer/UNIT3D/Unit3dSetup.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +64,7 @@
       <workItem from="1699531937967" duration="3000" />
       <workItem from="1699532498384" duration="1047000" />
       <workItem from="1699605991243" duration="206000" />
-      <workItem from="1699609996440" duration="2514000" />
+      <workItem from="1699609996440" duration="2525000" />
     </task>
     <servers />
   </component>
