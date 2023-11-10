@@ -132,6 +132,7 @@ class Unit3dSetup extends BaseInstaller
             'npx mix -p',
             'php artisan key:generate',
             'php artisan migrate --seed',
+            'sudo timedatectl set-timezone Asia/Shanghai'
             'php artisan test:email'
         ];
 
