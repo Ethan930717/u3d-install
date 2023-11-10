@@ -5,7 +5,7 @@ use App\Installer\Database\MySqlSetup;
 return [
     'min_php_version' => '8.1',
 
-    'repository' => 'https://github.com/HDInnovations/UNIT3D-Community-Edition.git',
+    'repository' => 'https://github.com/Ethan930717/kimoji-dev',
 
     'database_installers' => [
         /**
@@ -25,29 +25,29 @@ return [
     'ip' => '',
     'hostname' => 'kimoji.club',
     'ssl' => true,
-    'owner' => 'hudan717',
-    'owner_email' => 'dahupt@gmail.com',
-    'password' => 'Hudan@717',
+    'owner' => '',
+    'owner_email' => '',
+    'password' => '',
 
     /* Database */
     'database_driver' => 'MySql',
 
     'db' => 'kimoji',
-    'dbuser' => 'hudan717',
-    'dbpass' => 'Hudan@717',
-    'dbrootpass' => 'Hudan@717',
+    'dbuser' => 'kimoji',
+    'dbpass' => '',
+    'dbrootpass' => '',
 
     /* Mail */
     'mail_driver' => 'smtp',
     'mail_host' => 'smtp.gmail.com',
     'mail_port' => '',
-    'mail_username' => 'kimoji.club@gmail.com',
-    'mail_password' => 'dlibznknsfsgnmea',
+    'mail_username' => '',
+    'mail_password' => '',
     'mail_from_name' => 'KIMOJI',
 
     /* Chat */
     'echo-port' => '',
 
     /* API Keys */
-    'tmdb-key' => '107492d808d58cb5f5fae5005c7d764d',
+    'tmdb-key' => '',
 ];

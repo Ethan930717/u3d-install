@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e494c61b-5d7e-4194-9cba-531083fc063d" name="更改" comment="" />
+    <list default="true" id="e494c61b-5d7e-4194-9cba-531083fc063d" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Configs/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Configs/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Installer/Nginx/NginxSetup.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Installer/Nginx/NginxSetup.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +55,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698645802378</updated>
-      <workItem from="1698645804451" duration="1952000" />
+      <workItem from="1698645804451" duration="3303000" />
+      <workItem from="1698668975753" duration="125000" />
+      <workItem from="1698764336293" duration="1544000" />
+      <workItem from="1699002325522" duration="162000" />
+      <workItem from="1699168560420" duration="2298000" />
+      <workItem from="1699233093496" duration="4305000" />
+      <workItem from="1699282189234" duration="8011000" />
+      <workItem from="1699520143103" duration="367000" />
+      <workItem from="1699531937967" duration="3000" />
+      <workItem from="1699532498384" duration="1047000" />
+      <workItem from="1699605991243" duration="206000" />
+      <workItem from="1699609996440" duration="1140000" />
     </task>
     <servers />
   </component>
