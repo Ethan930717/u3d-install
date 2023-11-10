@@ -133,7 +133,6 @@ class Unit3dSetup extends BaseInstaller
             'php artisan key:generate',
             'php artisan migrate --seed',
             'sudo timedatectl set-timezone Asia/Shanghai'
-            'docker-compose up -d'
             'php artisan test:email'
         ];
 
