@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e494c61b-5d7e-4194-9cba-531083fc063d" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Installer/UNIT3D/Unit3dSetup.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Installer/UNIT3D/Unit3dSetup.php" afterDir="false" />
     </list>
@@ -65,7 +66,7 @@
       <workItem from="1699531937967" duration="3000" />
       <workItem from="1699532498384" duration="1047000" />
       <workItem from="1699605991243" duration="206000" />
-      <workItem from="1699609996440" duration="1795000" />
+      <workItem from="1699609996440" duration="2080000" />
     </task>
     <servers />
   </component>
